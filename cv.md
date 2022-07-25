@@ -3,7 +3,9 @@
 
 ## :iphone: Contact information
 **Email:** filkova.ann@gmail.com 
-**LinkedIn:** (www.linkedin.com/in/anna-filkova-980428a8)
+
+**LinkedIn:** www.linkedin.com/in/anna-filkova-980428a8
+
 **Telegram::** @annavladimirovna6
 
 ## :raising_hand_woman: About
@@ -41,13 +43,15 @@ git commit
 I have 5 years of experience as a UI/UX designer.
 
 ## :books: Education
-1.**Bachelor's Degree in Design and Media**
+**Bachelor's Degree in Design and Media**
 *2016-2018*
 _EDU - Vilnius_
-2.**Specialty Graphic Design**
+
+**Specialty Graphic Design**
 *2009-2013* 
 _MGASK - Minsk_
 
 ## :speaking_head: Languages
 **Russian** - Native speaker
+
 **English** - Intermediate (B1)
