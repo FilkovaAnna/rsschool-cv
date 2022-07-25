@@ -6,7 +6,7 @@
 
 **LinkedIn:** www.linkedin.com/in/anna-filkova-980428a8
 
-**Telegram::** @annavladimirovna6
+**Telegram:** @annavladimirovna6
 
 ## :raising_hand_woman: About
 My main expertise is creating high-quality products that solves user problems. I believe that proper UX should be based on meeting both user needs and business goals. 
